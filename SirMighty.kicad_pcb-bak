@@ -103,7 +103,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../Gerbers/SirMighty/"))
+      (outputdirectory "C:/Users/elisha3/Desktop/GitHub/Gerbers/SirMighty/"))
   )
 
   (net 0 "")
@@ -4215,7 +4215,7 @@
   (segment (start 179.843 125.876) (end 181.0956 125.876) (width 0.3) (layer F.Cu) (net 69))
   (segment (start 181.0956 125.876) (end 181.5845 126.3649) (width 0.3) (layer F.Cu) (net 69))
 
-  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5D7F4D7D) (hatch none 0.508)
+  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5D8A1193) (hatch none 0.508)
     (connect_pads (clearance 0.15))
     (min_thickness 0.2)
     (fill yes (arc_segments 32) (thermal_gap 0.25) (thermal_bridge_width 0.5))
@@ -5189,7 +5189,7 @@
       )
     )
   )
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5D7F4D7A) (hatch none 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5D8A1190) (hatch none 0.508)
     (connect_pads (clearance 0.15))
     (min_thickness 0.2)
     (fill yes (arc_segments 32) (thermal_gap 0.25) (thermal_bridge_width 0.5))
